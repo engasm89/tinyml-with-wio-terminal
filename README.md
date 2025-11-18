@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# TinyML with Wio Terminal
-
-- Course: TinyML with Wio Terminal
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/tinyml-wio-terminal/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Deploy lightweight ML models to make decisions on-device using sensor inputs.
-
-## Purchase With Discount
-
-Enroll via the link above to get a discounted price and build TinyML applications.
