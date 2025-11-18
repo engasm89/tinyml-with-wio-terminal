@@ -1,3 +1,11 @@
+/*
+ * Course: Tinyml With Wio Terminal
+ * Platform: Embedded Systems
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Include I/O for inference logs
 
 // Simulated TinyML inference on Wio Terminal
@@ -5,6 +13,7 @@ int infer(int sensor) { // Simple threshold classifier
   return sensor > 50; // Return 1 if sensor above threshold
 } // End infer
 
+// Main routine: orchestrates the tinyml with wio terminal scenario
 int main(void) { // Entry
   printf("TinyML with Wio Terminal\n"); // Title
   int sensor = 60; // Example sensor reading
